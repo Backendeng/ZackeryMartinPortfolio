@@ -1,0 +1,2 @@
+(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[8],{129:function(t,a,e){"use strict";e.r(a),a.default=e.p+"static/media/creative-art.2eb87d90.md"}}]);
+//# sourceMappingURL=8.8de2f02c.chunk.js.map
